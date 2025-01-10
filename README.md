@@ -56,6 +56,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux logo" />
 </div>
 <h3 align="left">Databases</h3>
 <div align="left">
