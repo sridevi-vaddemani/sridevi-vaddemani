@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sridevi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sridevi-vaddemani" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sridevi&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sridevi&show_icons=true&locale=en&theme=tokyonight" alt="sridevi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sridevi&&theme=tokyonight" alt="sridevi-vaddemani" /></p>
