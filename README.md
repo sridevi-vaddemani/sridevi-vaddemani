@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn logo" />
 <img width="12" />
 
-<h3 align="left"> Tools</h3>
+<h3 align="left"> Tools </h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode logo" />
   <img width="12" />
