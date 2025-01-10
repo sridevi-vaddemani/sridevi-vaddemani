@@ -65,8 +65,6 @@ Here are some ideas to get you started:
 <img width="12" />
 </div>
 
-
-
 [![Sridevi's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sridevi&&theme=xcode)](https://github.com/sridevi-vaddemani)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sridevi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sridevi-vaddemani" /></p>
