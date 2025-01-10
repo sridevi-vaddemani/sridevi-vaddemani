@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **I love creating dash boards and sloving coding!**
 
 <h3 align="left">Connect with me:</h3>
-<a href="www.linkedin.com/in/sri-devi-vaddemani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/sri-devi-vaddemani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sridevi" height="30" width="40" /></a>
 
 </p>
 
