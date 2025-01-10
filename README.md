@@ -33,7 +33,8 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/sri-devi-vaddemani/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn logo" />
 <img width="12" />
-
+  </a>
+  </div>
 <h3 align="left"> Tools </h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode logo" />
