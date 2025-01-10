@@ -20,11 +20,6 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate about power bi developer and Data analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*W2NPMN7oi3463WOIycoevg.jpeg">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sridevi&label=Profile%20views&color=0e75b6&style=flat" alt="sridevivaddemani" /> </p>
-
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
-
 - 🔭 I’m currently looking for **power bi and data analyst Job**
 
 - 🌱 I’m currently learning **data analytics**
@@ -68,7 +63,6 @@ Here are some ideas to get you started:
 <div align="left">
 <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" />
 <img width="12" />
-
 <img src="https://skillicons.dev/icons?i=microsoftpowerbi" height="40" alt="Microsoft Power BI logo" />
 <img width="12" />
 </div>
