@@ -67,6 +67,8 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" />
   <img width="12" />
 </div>
+<img src="https://skillicons.dev/icons?i=powerbi" height="40" alt="Power BI logo" />
+<img width="12" />
 
 
 
