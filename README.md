@@ -52,6 +52,8 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=excel" height="40" alt="Microsoft Excel logo" />
+<img width="12" />
 </div>
 <h3 align="left">Programming Languages</h3>
 <div align="left">
