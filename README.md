@@ -64,8 +64,9 @@ Here are some ideas to get you started:
 </div>
 <h3 align="left">Databases</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" />
-  <img width="12" />
+<img src="https://skillicons.dev/icons?i=sql" height="40" alt="SQL logo" />
+<img width="12" />
+
 <img src="https://skillicons.dev/icons?i=microsoftpowerbi" height="40" alt="Microsoft Power BI logo" />
 <img width="12" />
 </div>
