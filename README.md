@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate about power bi developer and Data analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*W2NPMN7oi3463WOIycoevg.jpeg">
 
-- 🔭 I’m currently looking for **power bi and data analyst Job**
+- 🔭 I’m currently looking for **power bi,data analyst and data analysis Job**
 
 - 🌱 I’m currently learning **data analytics**
 
@@ -45,11 +45,15 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=excel" height="40" alt="Microsoft Excel logo" />
-  <img width="12" />
+  <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank">
+  <img src="https://github.com/user-attachments/assets/e95f543d-e9d8-427e-8f87-4e2e2f288831" width="60" height="60" >
+  </a> 
 </div>
 <h3 align="left">Programming Languages</h3>
 <div align="left">
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/cb297339-18b7-4521-8305-6c8c185d194d"  width="60" height="60" >
+  </a>
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo" />
