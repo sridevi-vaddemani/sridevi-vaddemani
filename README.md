@@ -14,12 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+I am a **Data Analyst** with a passion for transforming raw data into actionable insights that drive informed business decisions. I specialize in data analysis, visualization, and reporting, and I enjoy solving complex problems to deliver solutions that optimize business performance and enhance decision-making.
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm sridevi vaddemani</h1>
-<h3 align="center">A passionate about power bi developer and Data analyst</h3
- I am a **Data Analyst** with a passion for transforming raw data into actionable insights that drive informed business decisions. I specialize in data analysis, visualization, and reporting, and I enjoy solving complex problems to deliver solutions that optimize business performance and enhance decision-making.
-                                                                         
+<h3 align="center">A passionate about power bi developer and Data analyst</h3>
+
+## 🚀 Skills & Tools: 
+- **Data Analysis & Visualization**: Excel, Power BI, Python 
+- **SQL**: Data manipulation, querying, and database management
+- **Programming Languages**: Python (data analytics libraries), SQL
+- **Tools**: Power BI, Excel, Tableau, Git
+
+## 💻 Projects:
+I work on a variety of data analysis and visualization projects, including:
+- **Predictive Analytics**: Using historical data to forecast future trends and outcomes.
+- **Dashboard Creation**: Developing real-time interactive dashboards to visualize business data in **Power BI**.
+- **Data Processing & Cleaning**: Handling messy data using **Python** and **SQL** to prepare it for analysis.
+- **Business Insights**: Leveraging data to uncover business trends and improve decision-making.
+
+## 📊 What I Do:
+- **Data Cleaning & Preparation**: Transforming raw data into a structured format.
+- **Reporting & Dashboarding**: Creating dashboards and reports to visualize key performance metrics.
+- **Advanced Excel**: Utilizing formulas, pivot tables, charts, and data modeling to perform in-depth analysis.
+- **SQL Queries**: Writing complex queries to extract, filter, and join data from relational databases.                                                                         
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*W2NPMN7oi3463WOIycoevg.jpeg">
 
 - 🔭 I’m currently looking for **power bi,data analyst and data analysis Job**
